@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Darshan and I'm a Web Developer🌐</h2>
+<h2 align="left">Hi 👋! My name is Darshan and I'm a Full Stack Developer + DevOps Engineer 🌐🚀</h2>
 
 ###
 
@@ -54,7 +54,36 @@
   <li>Email tracing, tracking, and forensics in Cybersecurity</li>
   <li>Advanced concepts in Computer Networks</li>
   <li>Setting up React projects with Vite in Visual Studio Code</li>
+  <li>DevOps Tools and Practices:
+    <ul>
+      <li>Docker</li>
+      <li>Kubernetes</li>
+      <li>Jenkins</li>
+      <li>Terraform</li>
+      <li>GitHub Actions</li>
+      <li>Azure DevOps</li>
+      <li>Prometheus and Grafana</li>
+    </ul>
+  </li>
 </ul>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="jenkins logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/30/github-actions.png" height="30" alt="github actions logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo" />
+</div>
 
 <h3 align="left">💻 Projects</h3>
 <ul>
@@ -63,6 +92,11 @@
   <li><b>Royalpic:</b> A stock images website created using HTML, CSS, and JavaScript.</li>
   <li><b>Budget Buddy:</b> An expense tracker app built using React and Firebase.</li>
   <li><b>AI Image Generator:</b> A tool for generating AI-powered images.</li>
+</ul>
+
+<h3 align="left">📜 Certifications</h3>
+<ul>
+  <li><b>Microsoft Azure Fundamentals (AZ-900)</b></li>
 </ul>
 
 ###
