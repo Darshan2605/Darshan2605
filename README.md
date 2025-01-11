@@ -196,6 +196,16 @@
 <br><br>
 
 
+###
+<p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AnishDhomase?theme=dark&font=Poppins&ext=heatmap" />  
+ 
+</p>
+
+
+###
+
+
 <h3 align="left">💻 Projects</h3>
 <ul>
   <li><b>Smart AI-Supported Job Application System:</b> A MERN stack project featuring resume creation, AI mock interviews, and job application tracking.</li>
@@ -215,15 +225,6 @@
 ###
 
 
-
-<div align="left">
-  <a href="https://instagram.com/darshan_londhe_26?igshid=NmQ2ZmYxZjA=" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/darshan-londhe-812303251" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
 
 ###
 
