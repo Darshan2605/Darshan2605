@@ -1,6 +1,11 @@
 ###
-<b>Portfolio-</b>https://darshan2605.github.io/Portfolio/
-<b>My Blogs-</b>https://medium.com/@darshanlondhe9
+<div>
+  <ul>
+    <li><b>Portfolio-</b>https://darshan2605.github.io/Portfolio/</li>
+    <li><b>My Blogs-</b>https://medium.com/@darshanlondhe9</li>
+  </ul>
+</div>
+
 
 
 ###
