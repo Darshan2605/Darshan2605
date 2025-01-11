@@ -229,7 +229,8 @@
 ###
 
 <div align="center">
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Darshan_Londhe?theme=dark&font=Poppins&ext=heatmap" /> 
+  
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/Darshan_Londhe)
 </div>
 
 ###
