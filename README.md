@@ -229,7 +229,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Darshan2605/count.svg?" />
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Darshan2605?theme=dark&font=Poppins&ext=heatmap" /> 
 </div>
 
 ###
