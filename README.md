@@ -23,7 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
@@ -42,7 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
@@ -60,6 +58,8 @@
 </div>
 
 ###
+
+
 
 <h3 align="left">🌱 Current Learnings</h3>
 <ul>
@@ -77,8 +77,9 @@
   </li>
 </ul>
 
+
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
@@ -95,6 +96,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo" />
 </div>
 
+
+
 <h3 align="left">💻 Projects</h3>
 <ul>
   <li><b>Smart AI-Supported Job Application System:</b> A MERN stack project featuring resume creation, AI mock interviews, and job application tracking.</li>
@@ -104,12 +107,16 @@
   <li><b>AI Image Generator:</b> A tool for generating AI-powered images.</li>
 </ul>
 
+
+
 <h3 align="left">📜 Certifications</h3>
 <ul>
   <li><b>Microsoft Azure Fundamentals (AZ-900)</b></li>
 </ul>
 
 ###
+
+
 
 <div align="left">
   <a href="https://instagram.com/darshan_londhe_26?igshid=NmQ2ZmYxZjA=" target="_blank">
