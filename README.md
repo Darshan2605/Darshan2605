@@ -183,8 +183,6 @@
 <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 <img src="https://img.shields.io/badge/helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 <img src="https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=githubactions&logoColor=white" />
 
 </p>
