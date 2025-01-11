@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Darshan and I'm a Full Stack Developer + DevOps Engineer 🌐🚀</h2>
-
+###
+<b>Portfolio-</b>https://darshan2605.github.io/Portfolio/
+<b>My Blogs-</b>https://medium.com/@darshanlondhe9
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3gyMmkwejdmNzlycWF0cXVuYWY5MzRwbTRqbTI4c2gwbm85MGg5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.gif" />
