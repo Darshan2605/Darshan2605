@@ -1,7 +1,7 @@
 ###
 <div>
   <ul>
-    <li><b>Portfolio-</b>https://vcard-personal-portfolio-kappa.vercel.app/</li>
+    <li><b>Portfolio-</b>https://vcard-personal-portfolio-kappa.vercel.app/https://tinyurl.com/darshan-londhe-portfolio</li>
     <li><b>My Blogs-</b>https://medium.com/@darshanlondhe9</li>
   </ul>
 </div>
