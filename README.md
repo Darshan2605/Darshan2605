@@ -1,7 +1,7 @@
 ###
 <div>
   <ul>
-    <li><b>Portfolio-</b>https://tinyurl.com/darshan-londhe-portfolio</li>
+    <li><b>Portfolio-</b>https://darshan-portfolio-v1.vercel.app/</li>
     <li><b>My Blogs-</b>https://medium.com/@darshanlondhe9</li>
   </ul>
 </div>
